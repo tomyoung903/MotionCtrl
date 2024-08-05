@@ -25,3 +25,5 @@ moviepy
 Pillow
 tqdm
 gradio==3.37.0
+debugpy
+ptvsd
